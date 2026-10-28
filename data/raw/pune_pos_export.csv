@@ -1,0 +1,511 @@
+﻿Bill No,Bill Date,Outlet,Item Name,Category,Qty,Rate
+PUN-10001,01/09/2026,Pune,Wireless Earbuds,Audio,2,1999.00
+PUN-10002,01/09/2026,Pune,hdmi cable 1.5m,Computer Accessories,2,399.00
+PUN-10002,01/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,2,299.00
+PUN-10002,01/09/2026,Pune,Phone Case,Mobile Accessories,2,₹ 349
+PUN-10003,01/09/2026,Pune,Pendrive 64GB,Computer Accessories,2,₹ 549
+PUN-10003,01/09/2026,Pune,Neckband Earphones,Audio,3,₹ 1099
+PUN-10004,01/09/2026,Pune,Keyboard Mouse Combo,Computer Accessories,1,₹ 1149
+PUN-10004,01/09/2026,Pune,Neckband Earphones,Audio,1,₹ 1099
+PUN-10005,01/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,1,₹ 299
+PUN-10005,01/09/2026,Pune,Phone Case,Mobile Accessories,1,₹ 349
+PUN-10006,01/09/2026,Pune,Pendrive 64GB,Computer Accessories,2,549.00
+PUN-10007,02/09/2026,pune,Tempered Glass,Mobile Accessories,1,₹199.00
+PUN-10008,02/09/2026,Pune,Wi-Fi Router,Home & Office,1,2299.00
+PUN-10008,02/09/2026,Pune,Wireless Earbuds,Audio,2,1999.00
+PUN-10009,02/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,2,299.00
+PUN-10010,02/09/2026,Pune,Phone Case,Mobile Accessories,1,349.00
+PUN-10011,02/09/2026,Pune,Wireless Mouse,Computer Accessories,2,599.00
+PUN-10011,02/09/2026,Pune,Neckband Earphones,Audio  ,1,1099.00
+PUN-10011,02/09/2026,PUNE,USB-C Cable 1m,Mobile Accessories,1,299.00
+PUN-10012,02/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories,2,₹ 1299
+PUN-10012,02/09/2026,Pune,Tempered Glass,Mobile Accessories,2,199.00
+PUN-10013,02/09/2026,pune,hdmi cable 1.5m,Computer Accessories,3,399.00
+PUN-10013,02/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories,3,₹ 1299
+PUN-10014,02/09/2026,Pune,HDMI Cable 1.5m,Computer Accessories,2,399.00
+PUN-10014,02/09/2026,pune,Tempered Glass,Mobile Accessories,1,₹ 199
+PUN-10015,02/09/2026,Pune,NECKBAND EARPHONES,Audio,2,"₹1,099.00"
+PUN-10015,02/09/2026,Pune,Wi-Fi Router,Home & Office,2,"₹2,299.00"
+PUN-10016,02/09/2026,Pune,Neckband Earphones,Audio,3,"₹1,099.00"
+PUN-10017,03/09/2026,Pune,Extension Board 4 Socket,Home & Office,2,₹649.00
+PUN-10018,03/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,1,299.00
+PUN-10018,03/09/2026,Pune,Bluetooth Speaker,Audio,1,"₹2,499.00"
+PUN-10018,03/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories  ,3,₹ 1299
+PUN-10019,03/09/2026,Pune,Bluetooth Speaker,Audio,1,₹ 2499
+PUN-10020,03/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories,2,"₹1,299.00"
+PUN-10020,03/09/2026,Pune,LED Desk Lamp,Home & Office,1,"₹1,199.00"
+,,,,,,
+PUN-10020,03/09/2026,Pune,Wi-Fi Router,Home & Office,2,₹ 2299
+PUN-10021,03/09/2026,Pune,Fitness Band,Wearables,3,₹ 1799
+PUN-10021,03/09/2026,Pune  ,Tempered Glass,Mobile Accessories,2,199.00
+PUN-10022,03/09/2026,Pune,Wireless Mouse,Computer Accessories,1,₹599.00
+PUN-10022,03/09/2026,Pune,Pendrive 64GB,Computer Accessories,1,₹549.00
+PUN-10023,03/09/2026,Pune,Phone Case,Mobile Accessories,1,₹ 349
+PUN-10024,03/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,2,299.00
+PUN-10025,04/09/2026,Pune,Pendrive 64GB,Computer Accessories,1,₹549.00
+PUN-10025,04/09/2026,Pune,LED Desk Lamp,Home & Office,1,1199.00
+PUN-10026,04/09/2026,Pune,Wireless Mouse,Computer Accessories,1,₹599.00
+PUN-10027,04/09/2026,Pune,Keyboard Mouse Combo,Computer Accessories,1,₹ 1149
+PUN-10027,04/09/2026,Pune,Wireless Earbuds,Audio,2,₹ 1999
+PUN-10028,04/09/2026,Pune,Laptop Backpack, Computer Accessories,3,₹ 1499
+PUN-10028,04/09/2026,Pune,Pendrive 64GB,Computer Accessories,1,₹549.00
+PUN-10028,04/09/2026,Pune,Tempered Glass,Mobile Accessories,1,₹ 199
+PUN-10029,04/09/2026,Pune, Wireless Mouse,Computer Accessories,1,₹ 599
+PUN-10029,04/09/2026,Pune,Extension Board 4 Socket,Home & Office,1,₹649.00
+PUN-10029,04/09/2026,Pune,Phone Case,Mobile Accessories,3,₹349.00
+,,,,,,
+PUN-10030,04/09/2026,Pune,Wireless Earbuds, Audio,1,₹ 1999
+PUN-10030,04/09/2026, Pune,USB-C Cable 1m,Mobile Accessories,1,₹299.00
+PUN-10030,04/09/2026,Pune,Phone Case,Mobile Accessories,1,₹ 349
+PUN-10031,04/09/2026,Pune,Keyboard Mouse Combo,Computer Accessories,1,₹ 1149
+PUN-10032,04/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories,1,₹ 1299
+PUN-10033,04/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,2,₹299.00
+PUN-10034,04/09/2026,Pune,Extension Board 4 Socket,Home & Office,3,₹ 649
+PUN-10034,04/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,1,299.00
+PUN-10035,04/09/2026,Pune,Fast Charger 20W,Mobile Accessories,1,₹899.00
+PUN-10036,04/09/2026,pune,Extension Board 4 Socket,Home & Office,2,₹ 649
+PUN-10036,04/09/2026,Pune,Fitness Band,Wearables,1,"₹1,799.00"
+PUN-10037,05/09/2026,Pune,Tempered Glass,Mobile Accessories,2,₹199.00
+PUN-10038,05/09/2026,Pune,Keyboard Mouse Combo,Computer Accessories,1,"₹1,149.00"
+PUN-10038,05/09/2026,Pune,Extension Board 4 Socket,Home & Office,2,₹649.00
+PUN-10039,05/09/2026,Pune,Extension Board 4 Socket,Home & Office,1,649.00
+PUN-10039,05/09/2026,Pune,Neckband Earphones,Audio,2,"₹1,099.00"
+PUN-10039,05/09/2026,Pune,Wireless Earbuds,Audio,2,1999.00
+PUN-10040,05/09/2026,Pune,Phone Case,Mobile Accessories,1,₹ 349
+PUN-10040,05/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories,1,1299.00
+PUN-10041,05/09/2026,Pune,Tempered Glass,Mobile Accessories,3,₹ 199
+PUN-10042,05/09/2026,Pune,Wireless Earbuds,Audio,1,1999.00
+PUN-10043,05/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,1,₹ 299
+PUN-10044,05/09/2026,Pune,Pendrive 64GB,Computer Accessories,2,₹549.00
+PUN-10045,05/09/2026,Pune,Extension Board 4 Socket,Home & Office,1,₹649.00
+PUN-10046,05/09/2026,Pune,Wireless Earbuds,Audio,1,1999.00
+PUN-10047,05/09/2026,Pune,Tempered Glass,Mobile Accessories,1,₹ 199
+PUN-10047,05/09/2026,Pune,Fast Charger 20W,Mobile Accessories,2,₹899.00
+PUN-10048,06/09/2026,Pune,Fast Charger 20W,Mobile Accessories,2,₹ 899
+PUN-10049,06/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories,1,₹ 1299
+PUN-10050,06/09/2026,Pune,Bluetooth Speaker,Audio,1,₹ 2499
+PUN-10050,06/09/2026,Pune,Fitness Band,Wearables,2,"₹1,799.00"
+PUN-10040,05/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories,1,1299.00
+PUN-10051,06/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,1,299.00
+PUN-10051,06/09/2026,Pune,Smart Watch,Wearables,1,"₹3,499.00"
+PUN-10052,06/09/2026,Pune,Neckband Earphones,Audio,3,1099.00
+PUN-10040,05/09/2026,Pune,Phone Case,Mobile Accessories,1,₹ 349
+PUN-10052,06/09/2026,Pune,Pendrive  64GB,Computer Accessories,,₹ 549
+PUN-10052,06/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories,1,1299.00
+PUN-10053,06/09/2026,Pune,Wireless Mouse,Computer Accessories,1,₹ 599
+PUN-10053,06/09/2026,Pune,HDMI CABLE 1.5M,Computer Accessories,2,₹ 399
+PUN-10054,06/09/2026,Pune,Phone Case,Mobile Accessories  ,1,₹349.00
+PUN-10054,06/09/2026,Pune,HDMI Cable 1.5m,Computer Accessories,1,₹399.00
+PUN-10055,06/09/2026,Pune,Pendrive 64GB,Computer Accessories,1,₹549.00
+PUN-10055,06/09/2026,Pune,Tempered Glass  ,MOBILE ACCESSORIES,3,₹199.00
+PUN-10055,06/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories,1,1299.00
+PUN-10056,06/09/2026,Pune,Tempered Glass,Mobile Accessories,1,₹ 199
+PUN-10057,06/09/2026,Pune,WIRELESS EARBUDS,Audio,1,₹ 1999
+PUN-10057,06/09/2026,Pune,Keyboard Mouse Combo,Computer Accessories,1,"₹1,149.00"
+PUN-10058,06/09/2026,Pune,Fast Charger 20W, Mobile Accessories,1,₹899.00
+PUN-10058,06/09/2026,Pune,WIRELESS EARBUDS,Audio,1,"₹1,999.00"
+PUN-10059,06/09/2026,Pune,Pendrive 64GB,Computer Accessories,3,549.00
+PUN-10060,06/09/2026,Pune,Pendrive 64GB,Computer Accessories,1,549.00
+PUN-10061,06/09/2026,Pune,extension board 4 socket,Home & Office,1,₹ 649
+PUN-10062,06/09/2026,Pune,Tempered Glass,Mobile Accessories,3,₹199.00
+PUN-10062,06/09/2026,Pune,Neckband Earphones, Audio,2,₹ 1099
+PUN-10062,06/09/2026,Pune,Pendrive 64GB,Computer Accessories,1,549.00
+PUN-10063,06/09/2026,Pune,Tempered Glass,Mobile Accessories,1,₹199.00
+PUN-10064,07/09/2026,Pune,fitness band,Wearables,1,"₹1,799.00"
+PUN-10064,07/09/2026,Pune,Pendrive 64GB,Computer Accessories,1,₹ 549
+PUN-10065,07/09/2026,Pune,Wireless Mouse,Computer Accessories,2,₹ 599
+PUN-10065,07/09/2026,Pune,Neckband Earphones,Audio,2,₹ 1099
+PUN-10066,07/09/2026,Pune,Neckband Earphones,Audio,2,"₹1,099.00"
+PUN-10067,07/09/2026,Pune,Fitness Band,Wearables,1,1799.00
+PUN-10068,07/09/2026,Pune,Keyboard Mouse Combo,Computer Accessories,1,"₹1,149.00"
+PUN-10069,07/09/2026,Pune,Fast Charger 20W,Mobile Accessories,3,₹ 899
+PUN-10069,07/09/2026,Pune,Fitness Band,Wearables,1,1799.00
+PUN-10070,07/09/2026,Pune,Pendrive 64GB,Computer Accessories,1,549.00
+PUN-10070,07/09/2026,Pune,Smart Watch,Wearables,1,₹ 3499
+PUN-10070,07/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,2,₹ 299
+PUN-10071,07/09/2026,Pune,Phone Case,Mobile Accessories,1,₹349.00
+PUN-10072,07/09/2026,pune,Phone Case,Mobile Accessories,1,₹349.00
+PUN-10073,08/09/2026,Pune,HDMI Cable 1.5m,Computer Accessories,1,₹ 399
+PUN-10073,08/09/2026,Pune,Laptop Backpack,Computer Accessories,1,"₹1,499.00"
+PUN-10074,08/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,1,₹299.00
+PUN-10075,08/09/2026,Pune,Tempered Glass,Mobile Accessories,1,₹ 199
+PUN-10076,08/09/2026,Pune,Neckband Earphones,Audio,1,₹ 1099
+PUN-10076,08/09/2026,Pune,Wi-Fi Router,Home & Office,3,₹ 2299
+PUN-10076,08/09/2026,Pune,HDMI CABLE 1.5M,Computer Accessories,1,399.00
+PUN-10077,08/09/2026,Pune,Bluetooth Speaker,Audio,1,₹ 2499
+PUN-10077,08/09/2026,Pune,Wireless Mouse,Computer Accessories,1,₹ 599
+PUN-10078,08/09/2026,Pune,Bluetooth Speaker,Audio,2,"₹2,499.00"
+PUN-10079,09/09/2026,Pune,Wi-Fi Router,Home  & Office,2,"₹2,299.00"
+PUN-10079,09/09/2026,Pune,HDMI Cable 1.5m,Computer Accessories,1,₹399.00
+PUN-10080,09/09/2026,Pune,Fitness Band,Wearables,1,"₹1,799.00"
+PUN-10080,09/09/2026,pune,LED Desk Lamp,Home & Office,1,1199.00
+PUN-10081,09/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,2,₹ 299
+PUN-10082,09/09/2026,Pune,HDMI Cable 1.5m,Computer Accessories,1,399.00
+PUN-10082,09/09/2026,Pune,phone case,Mobile Accessories,1,349.00
+PUN-10083,09/09/2026,Pune,EXTENSION BOARD 4 SOCKET,Home & Office,3,₹ 649
+PUN-10083,09/09/2026,Pune,Pendrive 64GB  ,Computer Accessories,1,₹ 549
+PUN-10083,09/09/2026,Pune,Fast Charger 20W,Mobile Accessories,1,₹ 899
+PUN-10084,09/09/2026,Pune,Laptop Backpack,Computer Accessories,1,"₹1,499.00"
+PUN-10084,09/09/2026,Pune,Neckband Earphones,Audio,1,₹ 1099
+PUN-10085,09/09/2026,Pune,USB-C CABLE 1M,Mobile Accessories,1,299.00
+PUN-10085,09/09/2026,Pune,wi-fi router,Home & Office,2,"₹2,299.00"
+PUN-10086,09/09/2026,Pune,Fast Charger 20W,Mobile Accessories,1,₹899.00
+PUN-10087,09/09/2026,Pune,TEMPERED GLASS,Mobile Accessories,2,199.00
+PUN-10087,09/09/2026,Pune,Smart Watch,Wearables,1,₹ 3499
+PUN-10088,09/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories,1,"₹1,299.00"
+PUN-10089,10/09/2026,Pune,Tempered Glass,Mobile Accessories,1,₹ 199
+PUN-10089,10/09/2026,Pune,Phone Case,Mobile Accessories,2,₹ 349
+PUN-10090,10/09/2026,Pune,Keyboard Mouse Combo,Computer Accessories,1,1149.00
+PUN-10091,10/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,2,₹299.00
+PUN-10091,10/09/2026,Pune,Wireless Mouse,Computer Accessories,2,₹ 599
+PUN-10092,10/09/2026,Pune,Tempered Glass,Mobile Accessories,1,₹ 199
+PUN-10092,10/09/2026,Pune,Phone Case,Mobile Accessories,1,₹349.00
+PUN-10093,10/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,2,299.00
+PUN-10094,10/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories,1,1299.00
+PUN-10094,10/09/2026,Pune,Extension Board 4 Socket,Home & Office,2,₹649.00
+PUN-10095,10/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,1,₹ 299
+PUN-10095,10/09/2026,Pune,Fast Charger 20W  ,Mobile Accessories,2,899.00
+PUN-10096,10/09/2026,Pune,Pendrive 64GB,Computer Accessories,2,₹ 549
+PUN-10096,10/09/2026,Pune,Tempered Glass,Mobile Accessories,3,199.00
+PUN-10097,10/09/2026,Pune,Tempered Glass  ,Mobile Accessories,1,₹199.00
+PUN-10097,10/09/2026,Pune,Smart Watch,Wearables,1,"₹3,499.00"
+PUN-10097,10/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,1,₹ 299
+PUN-10098,11/09/2026,Pune,Wireless Earbuds,Audio,3,1999.00
+PUN-10098,11/09/2026,Pune,Fast Charger 20W,Mobile Accessories,1,899.00
+PUN-10098,11/09/2026,Pune,wireless mouse,Computer Accessories,2,599.00
+PUN-10099,11/09/2026,Pune,Extension Board 4 Socket,Home & Office,1,₹649.00
+,,,,,,
+PUN-10100,11/09/2026,Pune,Pendrive 64GB,Computer Accessories,1,₹549.00
+PUN-10100,11/09/2026,Pune,Tempered Glass,Mobile Accessories,,₹199.00
+PUN-10101,11/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories,1,1299.00
+PUN-10102,11/09/2026,Pune,Pendrive 64GB,computer accessories,2,₹549.00
+PUN-10102,11/09/2026,Pune,Laptop Backpack,Computer  Accessories,2,₹ 1499
+PUN-10098,11/09/2026,Pune,wireless mouse,Computer Accessories,2,599.00
+PUN-10103,11/09/2026,Pune,Fast Charger 20W,Mobile Accessories,2,899.00
+PUN-10104,11/09/2026,Pune,Fast Charger 20W,Mobile  Accessories,1,₹ 899
+PUN-10104,11/09/2026,Pune,Laptop Backpack,Computer Accessories,3,₹ 1499
+PUN-10105,11/09/2026,Pune,Wireless Mouse,Computer Accessories,2,₹599.00
+PUN-10105,11/09/2026,Pune,PENDRIVE 64GB,Computer Accessories,1,₹549.00
+PUN-10106,12/09/2026,Pune,Tempered Glass,Mobile Accessories,2,199.00
+PUN-10107,12/09/2026,Pune,Fast Charger 20W,Mobile Accessories,2,899.00
+PUN-10108,12/09/2026,Pune,Wi-Fi Router,Home & Office,1,"₹2,299.00"
+PUN-10109,12/09/2026,Pune,Phone Case,Mobile Accessories,2,349.00
+PUN-10109,12/09/2026,Pune,Pendrive 64GB,Computer Accessories,1,549.00
+PUN-10110,12/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,2,₹299.00
+PUN-10110,12/09/2026,Pune,Tempered Glass,Mobile Accessories,2,199.00
+PUN-10111,12/09/2026, Pune,Smart Watch,Wearables,1,3499.00
+PUN-10111,12/09/2026,Pune,Extension Board 4 Socket,Home & Office,2,649.00
+PUN-10111,12/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,,₹ 299
+PUN-10112,12/09/2026,Pune,Neckband Earphones,Audio,1,"₹1,099.00"
+PUN-10113,12/09/2026,Pune,Wireless Mouse,Computer Accessories,2,₹599.00
+PUN-10114,12/09/2026,Pune,Fast Charger 20W,Mobile Accessories,1,899.00
+PUN-10115,13/09/2026,Pune,Phone Case,Mobile Accessories,1,₹349.00
+PUN-10115,13/09/2026,Pune,Fast Charger 20W,Mobile Accessories,1,₹899.00
+PUN-10116,13/09/2026,PUNE,Bluetooth Speaker,Audio,1,2499.00
+PUN-10116,13/09/2026,Pune,Pendrive 64GB,Computer Accessories,1,₹ 549
+PUN-10116,13/09/2026, Pune,Smart Watch,Wearables,3,"₹3,499.00"
+PUN-10117,13/09/2026,Pune,Fast Charger 20W,Mobile Accessories,1,899.00
+PUN-10117,13/09/2026,Pune,Wireless Earbuds,Audio,1,1999.00
+PUN-10118,13/09/2026,Pune,Fast Charger 20W  ,Mobile Accessories,1,899.00
+PUN-10118,13/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,2,299.00
+PUN-10119,13/09/2026,Pune,HDMI Cable 1.5m,Computer Accessories,1,399.00
+PUN-10119,13/09/2026,Pune,Smart Watch,Wearables,1,"₹3,499.00"
+PUN-10119,13/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,1,₹ 299
+PUN-10120,13/09/2026, Pune,Phone Case,Mobile Accessories,1,₹349.00
+PUN-10121,13/09/2026,Pune,Bluetooth Speaker,Audio,1,2499.00
+PUN-10121,13/09/2026, Pune,Fast Charger 20W,Mobile Accessories,1,₹899.00
+PUN-10122,13/09/2026,pune,HDMI Cable 1.5m,Computer Accessories,2,₹ 399
+PUN-10123,13/09/2026,Pune,Tempered Glass,Mobile Accessories,2,₹199.00
+PUN-10124,13/09/2026,Pune,Smart Watch,WEARABLES,1,₹ 3499
+PUN-10125,13/09/2026,Pune,LED Desk Lamp,Home & Office,2,"₹1,199.00"
+PUN-10125,13/09/2026,Pune,Fast Charger 20W,Mobile Accessories,1,₹ 899
+PUN-10126,13/09/2026,PUNE,Fitness Band,Wearables,1,1799.00
+PUN-10127,13/09/2026,Pune,Tempered Glass,Mobile Accessories,1,199.00
+PUN-10127,13/09/2026,Pune,usb-c cable 1m,Mobile Accessories,3,₹299.00
+PUN-10128,14/09/2026,Pune,Phone  Case,Mobile Accessories,2,₹ 349
+PUN-10129,14/09/2026,Pune,Fast Charger 20W,Mobile Accessories,1,₹899.00
+PUN-10130,14/09/2026,Pune,Neckband Earphones,Audio,2,₹ 1099
+PUN-10130,14/09/2026,Pune,Tempered Glass,Mobile Accessories,2,₹ 199
+PUN-10131,14/09/2026,Pune,Tempered Glass,Mobile Accessories,3,199.00
+PUN-10131,14/09/2026,Pune,Fast Charger 20W,Mobile Accessories,1,₹ 899
+PUN-10132,14/09/2026,Pune,HDMI Cable 1.5m,Computer Accessories,1,399.00
+PUN-10133,14/09/2026,Pune,Tempered Glass,Mobile Accessories,3,199.00
+PUN-10134,14/09/2026,Pune,Tempered Glass,Mobile Accessories,2,₹ 199
+PUN-10134,14/09/2026,Pune,Fast Charger 20W,Mobile Accessories,2,₹ 899
+PUN-10135,14/09/2026,Pune,Wireless Mouse,Computer Accessories,1,₹ 599
+PUN-10135,14/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories,1,"₹1,299.00"
+PUN-10135,14/09/2026,Pune,Tempered Glass,Mobile Accessories,1,199.00
+PUN-10136,14/09/2026,Pune,Phone Case,Mobile Accessories,1,₹349.00
+PUN-10136,14/09/2026,Pune,Neckband Earphones,Audio,1,"₹1,099.00"
+PUN-10137,14/09/2026,Pune,Extension Board 4 Socket,Home & Office,2,₹ 649
+PUN-10138,15/09/2026,Pune,Phone Case,Mobile Accessories,1,₹ 349
+PUN-10139,15/09/2026,Pune,Tempered Glass,Mobile Accessories,2,₹199.00
+PUN-10139,15/09/2026,Pune,USB-C Cable 1m, Mobile Accessories,1,₹299.00
+PUN-10139,15/09/2026,Pune,Wireless Mouse,Computer Accessories,1,599.00
+PUN-10140,15/09/2026,Pune,Fitness Band,Wearables,1,₹ 1799
+PUN-10141,15/09/2026, Pune,Pendrive 64GB  ,Computer Accessories,2,₹ 549
+PUN-10141,15/09/2026,Pune,Extension Board 4 Socket,Home & Office  ,2,₹649.00
+PUN-10141,15/09/2026,Pune,Fitness Band,Wearables,1,₹ 1799
+PUN-10142,15/09/2026,Pune,Tempered Glass,Mobile Accessories,1,199.00
+
+PUN-10143,15/09/2026,Pune,Fast Charger 20W,Mobile Accessories,1,899.00
+PUN-10143,15/09/2026,Pune,Phone Case,Mobile Accessories,1,₹349.00
+PUN-10143,15/09/2026,Pune,Wireless Mouse,Computer Accessories,2,599.00
+PUN-10144,16/09/2026,Pune,Pendrive 64GB,Computer Accessories,3,₹549.00
+PUN-10145,16/09/2026,pune,Tempered Glass,Mobile Accessories,1,199.00
+PUN-10145,16/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,2,₹299.00
+PUN-10146,16/09/2026,Pune,Smart Watch,Wearables,1,"₹3,499.00"
+PUN-10147,16/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,1,₹299.00
+PUN-10148,16/09/2026,Pune,Wireless Earbuds,Audio,1,₹ 1999
+PUN-10148,16/09/2026,Pune,Bluetooth Speaker,Audio,1,2499.00
+PUN-10149,16/09/2026,Pune,Wireless Mouse,Computer Accessories,1,₹ 599
+PUN-10149,16/09/2026,Pune,Wireless Earbuds,Audio,1,"₹1,999.00"
+PUN-10150,16/09/2026,Pune,Tempered Glass,Mobile Accessories,1,₹ 199
+PUN-10151,16/09/2026,Pune,Phone Case,Mobile Accessories,2,₹349.00
+PUN-10151,16/09/2026,Pune,Fitness Band,Wearables,1,₹ 1799
+PUN-10152,16/09/2026,Pune,Neckband Earphones,Audio,2,₹ 1099
+PUN-10153,16/09/2026,Pune,Fitness  Band,Wearables,1,₹ 1799
+PUN-10153,16/09/2026,Pune,neckband earphones,Audio,1,₹ 1099
+PUN-10154,16/09/2026,Pune,Extension Board 4 Socket,Home & Office,1,649.00
+PUN-10155,16/09/2026,Pune,Neckband Earphones,Audio,2,1099.00
+PUN-10156,17/09/2026,pune,Smart Watch,Wearables,1,3499.00
+PUN-10156,17/09/2026,Pune,Tempered Glass,Mobile Accessories,1,₹199.00
+PUN-10157,17/09/2026,Pune,Wireless Earbuds,Audio,1,"₹1,999.00"
+PUN-10158,17/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,1,₹299.00
+PUN-10159,17/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,3,299.00
+PUN-10160,17/09/2026,Pune,Phone Case,Mobile Accessories,3,₹349.00
+PUN-10161,17/09/2026,Pune,Phone Case,Mobile Accessories,3,₹ 349
+PUN-10162,17/09/2026,Pune,Tempered Glass,Mobile Accessories,1,₹ 199
+PUN-10162,17/09/2026,Pune,Phone Case,Mobile Accessories,3,349.00
+PUN-10162,17/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,1,₹299.00
+PUN-10163,17/09/2026,Pune,Wireless Mouse,Computer Accessories,3,₹599.00
+PUN-10163,17/09/2026,Pune,Smart Watch,Wearables,3,3499.00
+PUN-10163,17/09/2026,Pune,Fitness Band,Wearables,1,1799.00
+PUN-10164,18/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,2,₹299.00
+PUN-10164,18/09/2026,Pune,Wireless Earbuds,Audio,2,1999.00
+PUN-10165,18/09/2026,Pune,Wireless Earbuds,Audio,2,₹ 1999
+PUN-10166,18/09/2026,Pune,Tempered Glass,Mobile Accessories,1,₹199.00
+PUN-10167,18/09/2026,Pune,HDMI Cable 1.5m,Computer Accessories,1,₹399.00
+PUN-10167,18/09/2026,Pune,Fast Charger 20W,Mobile Accessories,3,899.00
+PUN-10168,18/09/2026,Pune,Wireless Earbuds,Audio,1,"₹1,999.00"
+PUN-10168,18/09/2026,Pune,Tempered Glass,Mobile Accessories,2,₹199.00
+PUN-10169,18/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,1,₹299.00
+PUN-10170,18/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories,3,₹ 1299
+PUN-10171,18/09/2026, Pune,Fast Charger 20W,Mobile Accessories,3,899.00
+PUN-10171,18/09/2026,Pune,Phone Case,Mobile Accessories,1,₹349.00
+PUN-10172,18/09/2026,Pune,Wireless Earbuds,Audio,1,1999.00
+PUN-10172,18/09/2026,Pune,Neckband Earphones,Audio,1,₹ 1099
+PUN-10172,18/09/2026,Pune  ,Pendrive 64GB,Computer Accessories,2,₹549.00
+PUN-10173,18/09/2026,Pune,Wireless Earbuds,Audio,1,₹ 1999
+PUN-10173,18/09/2026,Pune,Wireless Mouse  ,Computer Accessories,1,₹ 599
+PUN-10174,19/09/2026,Pune,Wireless Mouse,Computer Accessories,1,₹599.00
+PUN-10174,19/09/2026,Pune,Fast Charger 20W,Mobile Accessories,1,899.00
+PUN-10175,19/09/2026,Pune,Neckband Earphones,Audio,1,1099.00
+PUN-10175,19/09/2026,PUNE,Pendrive 64GB,Computer Accessories,3,₹549.00
+PUN-10175,19/09/2026,Pune,HDMI Cable 1.5m,Computer Accessories,1,399.00
+PUN-10176,19/09/2026,Pune,Fast Charger 20W,Mobile Accessories,2,₹899.00
+PUN-10177,19/09/2026,Pune,Tempered Glass,Mobile Accessories,1,₹ 199
+PUN-10177,19/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories,3,"₹1,299.00"
+PUN-10177,19/09/2026,Pune,Fast Charger 20W,Mobile Accessories,1,₹899.00
+PUN-10178,19/09/2026,Pune,Fast Charger 20W,Mobile Accessories,2,₹ 899
+PUN-10178,19/09/2026,Pune,Smart Watch,Wearables,1,3499.00
+PUN-10178,19/09/2026,Pune,Wireless Earbuds,Audio,1,₹ 1999
+PUN-10179,19/09/2026,Pune,Wireless Earbuds,Audio,2,1999.00
+PUN-10180,19/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories,2,₹ 1299
+PUN-10181,19/09/2026,Pune,Fast Charger 20W,Mobile Accessories,2,899.00
+PUN-10181,19/09/2026,Pune,Tempered Glass,Mobile Accessories,2,₹ 199
+PUN-10182,19/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories,1,1299.00
+PUN-10183,19/09/2026,Pune,Tempered Glass,Mobile Accessories,3,₹199.00
+PUN-10184,19/09/2026,pune,Wireless Mouse,Computer Accessories,1,599.00
+PUN-10184,19/09/2026,Pune,Pendrive 64GB,computer accessories,1,₹549.00
+PUN-10184,19/09/2026,Pune,Tempered Glass,Mobile Accessories,2,199.00
+PUN-10175,19/09/2026,Pune,HDMI Cable 1.5m,Computer Accessories,1,399.00
+PUN-10185,19/09/2026,Pune,HDMI Cable 1.5m,Computer Accessories,1,₹399.00
+PUN-10186,19/09/2026,Pune,Smart Watch,Wearables,3,3499.00
+PUN-10186,19/09/2026,Pune,Phone Case,Mobile Accessories,1,₹ 349
+PUN-10187,19/09/2026,Pune,Phone Case,Mobile Accessories,1,349.00
+PUN-10188,19/09/2026,Pune,Tempered Glass,Mobile Accessories,2,₹ 199
+PUN-10181,19/09/2026,Pune,Tempered Glass,Mobile Accessories,2,₹ 199
+PUN-10189,19/09/2026,Pune,Wireless Mouse,Computer Accessories  ,1,599.00
+PUN-10185,19/09/2026,Pune,HDMI Cable 1.5m,Computer Accessories,1,₹399.00
+PUN-10189,19/09/2026,PUNE,Power Bank 10000mAh,Mobile Accessories,2,"₹1,299.00"
+PUN-10186,19/09/2026,Pune,Phone Case,Mobile Accessories,1,₹ 349
+PUN-10190,20/09/2026,Pune,Bluetooth Speaker,Audio,1,"₹2,499.00"
+PUN-10191,20/09/2026,Pune,Bluetooth Speaker,Audio,1,2499.00
+PUN-10191,20/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,2,299.00
+PUN-10192,20/09/2026,PUNE,Fast Charger 20W,Mobile Accessories,1,₹899.00
+PUN-10193,20/09/2026,Pune,Wireless Mouse,Computer Accessories,2,599.00
+PUN-10194,20/09/2026,Pune,Fast Charger 20W,Mobile Accessories,1,₹899.00
+PUN-10194,20/09/2026,Pune,Smart Watch,Wearables,1,₹ 3499
+PUN-10195,20/09/2026,Pune,Neckband Earphones,Audio,1,1099.00
+PUN-10196,20/09/2026,Pune,Laptop Backpack,Computer Accessories,2,"₹1,499.00"
+PUN-10196,20/09/2026,Pune,Smart Watch,Wearables,1,₹ 3499
+PUN-10196,20/09/2026,Pune,Phone Case,Mobile Accessories,,₹ 349
+PUN-10197,20/09/2026,Pune,Wireless Earbuds  ,Audio,1,₹ 1999
+PUN-10198,20/09/2026,PUNE,Pendrive 64GB,Computer Accessories,1,₹ 549
+PUN-10199,20/09/2026,Pune  ,USB-C Cable 1m,Mobile Accessories,1,299.00
+PUN-10200,20/09/2026,Pune,Phone Case,Mobile Accessories,1,349.00
+PUN-10200,20/09/2026,Pune,Tempered Glass,Mobile Accessories,2,199.00
+PUN-10201,21/09/2026,Pune,LED Desk Lamp,Home & Office,2,₹ 1199
+PUN-10202,21/09/2026,Pune,Tempered Glass,Mobile Accessories,2,199.00
+PUN-10202,21/09/2026,Pune,Phone Case,Mobile Accessories,1,349.00
+PUN-10203,21/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories,3,₹ 1299
+PUN-10203,21/09/2026,Pune,Neckband Earphones,Audio,2,"₹1,099.00"
+PUN-10204,21/09/2026,Pune,Extension Board 4 Socket,Home & Office,1,649.00
+PUN-10204,21/09/2026,Pune,Pendrive 64GB,Computer Accessories,1,549.00
+PUN-10205,21/09/2026,Pune,Neckband Earphones,Audio,1,"₹1,099.00"
+PUN-10206,21/09/2026,Pune,LED Desk Lamp,Home & Office,1,1199.00
+PUN-10206,31/09/2026,Pune,Neckband Earphones,Audio,3,"₹1,099.00"
+PUN-10207,21/09/2026,Pune,Pendrive 64GB,Computer Accessories,2,₹549.00
+PUN-10207,21/09/2026,Pune,Extension Board 4 Socket,Home & Office,1,₹649.00
+PUN-10207,21/09/2026,Pune, Bluetooth Speaker,Audio,1,"₹2,499.00"
+PUN-10208,21/09/2026,Pune,Fast Charger 20W,Mobile Accessories,1,899.00
+PUN-10209,21/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,1,299.00
+PUN-10209,21/09/2026,Pune,Wireless Earbuds,Audio,1,₹ 1999
+PUN-10210,21/09/2026,pune,Keyboard Mouse Combo,Computer Accessories,1,₹ 1149
+PUN-10211,21/09/2026,Pune,Wireless Earbuds,Audio,3,"₹1,999.00"
+PUN-10211,21/09/2026,Pune,Wireless Mouse,Computer Accessories,1,₹ 599
+PUN-10212,21/09/2026,Pune,Fast Charger 20W,Mobile Accessories,2,₹ 899
+PUN-10212,21/09/2026,Pune,Extension Board 4 Socket,HOME & OFFICE,1,649.00
+,,,,,,
+PUN-10212,21/09/2026,pune,Phone Case,Mobile Accessories,2,₹349.00
+PUN-10213,22/09/2026,Pune,Phone Case,Mobile Accessories,1,349.00
+PUN-10213,22/09/2026,Pune,HDMI Cable 1.5m,Computer Accessories,1,399.00
+PUN-10214,22/09/2026,Pune,Wireless Earbuds,Audio,2,1999.00
+PUN-10215,22/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories,3,1299.00
+PUN-10216,22/09/2026,Pune,Neckband Earphones,Audio,2,₹ 1099
+PUN-10217,22/09/2026,Pune,Wireless Earbuds,Audio,1,"₹1,999.00"
+PUN-10217,22/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,1,₹ 299
+PUN-10218,22/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,1,299.00
+PUN-10218,22/09/2026,Pune,Power Bank 10000mAh  ,Mobile Accessories,3,₹ 1299
+PUN-10218,22/09/2026,Pune,Fast Charger 20W,Mobile Accessories,2,₹ 899
+PUN-10219,22/09/2026,Pune,Phone Case,Mobile Accessories,1,₹349.00
+PUN-10220,22/09/2026,Pune,Neckband Earphones,audio,1,₹ 1099
+PUN-10220,22/09/2026,Pune,Tempered Glass,Mobile Accessories,2,₹ 199
+PUN-10220,22/09/2026,Pune,HDMI Cable 1.5m,Computer Accessories,1,399.00
+PUN-10221,23/09/2026,Pune,Pendrive 64GB  ,Computer Accessories,2,₹549.00
+PUN-10222,23/09/2026,Pune,Neckband Earphones,Audio,1,₹ 1099
+PUN-10223,23/09/2026,Pune,Pendrive 64GB  ,Computer Accessories  ,3,₹ 549
+PUN-10224,23/09/2026,Pune,Tempered Glass,Mobile Accessories,1,199.00
+PUN-10224,23/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,1,₹299.00
+PUN-10225,23/09/2026,Pune,Keyboard Mouse Combo,Computer Accessories,1,1149.00
+PUN-10226,23/09/2026,Pune,Phone Case,Mobile Accessories,1,₹ 349
+PUN-10226,31/09/2026,Pune,Tempered Glass,Mobile Accessories,1,₹ 199
+PUN-10227,23/09/2026,Pune,Phone Case,Mobile Accessories,3,₹349.00
+PUN-10228,23/09/2026,Pune,Pendrive 64GB,Computer Accessories,2,549.00
+PUN-10228,23/09/2026,Pune,Neckband Earphones,Audio,2,"₹1,099.00"
+PUN-10228,23/09/2026,Pune,Laptop Backpack,Computer Accessories,1 pcs,1499.00
+PUN-10229,23/09/2026,Pune, Extension Board 4 Socket,Home & Office,2,₹ 649
+PUN-10230,23/09/2026,Pune,Pendrive 64GB,Computer Accessories,1,549.00
+PUN-10230,23/09/2026,Pune,Wireless Earbuds,Audio,3,1999.00
+PUN-10231,23/09/2026,Pune,Smart Watch,Wearables,1,3499.00
+PUN-10232,23/09/2026,Pune,Phone Case,Mobile Accessories,1,₹349.00
+PUN-10233,24/09/2026,Pune,Phone Case,Mobile Accessories,1,₹349.00
+PUN-10234,24/09/2026,Pune,Smart Watch,Wearables,1,"₹3,499.00"
+PUN-10234,24/09/2026,Pune,Wireless Earbuds,Audio,1,"₹1,999.00"
+PUN-10235,24/09/2026,Pune,Wireless Mouse,COMPUTER ACCESSORIES,2,₹ 599
+PUN-10235,24/09/2026,Pune,Fast Charger 20W,Mobile Accessories,2,₹899.00
+PUN-10235,24/09/2026,Pune,Smart Watch,,1,₹ 3499
+PUN-10236,24/09/2026,Pune,Pendrive 64GB,COMPUTER ACCESSORIES,1,₹ 549
+PUN-10236,24/09/2026,Pune,neckband earphones,Audio,2,"₹1,099.00"
+PUN-10237,24/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories,1,₹ 1299
+PUN-10237,24/09/2026,Pune,Phone Case,Mobile Accessories,1,349.00
+PUN-10238,24/09/2026,Pune,Neckband Earphones,Audio,2,"₹1,099.00"
+PUN-10238,24/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories,1,"₹1,299.00"
+PUN-10239,25/09/2026,Pune,Fast Charger 20W,Mobile Accessories,1,₹ 899
+PUN-10240,25/09/2026,Pune,Keyboard Mouse Combo,Computer Accessories,2,1149.00
+PUN-10240,25/09/2026,Pune,Tempered Glass,Mobile Accessories,2,₹199.00
+PUN-10241,25/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories,1,1299.00
+PUN-10242,25/09/2026,PUNE,USB-C Cable 1m,Mobile Accessories,3,₹299.00
+PUN-10243,25/09/2026,Pune  ,Wi-Fi Router,Home & Office,2,₹ 2299
+PUN-10244,25/09/2026,Pune,Keyboard Mouse Combo,Computer Accessories,1,"₹1,149.00"
+PUN-10244,25/09/2026,Pune,Pendrive 64GB,Computer Accessories,3,₹ 549
+PUN-10245,25/09/2026,Pune,Fast Charger 20W,MOBILE ACCESSORIES,2 pcs,₹ 899
+PUN-10245,25/09/2026,Pune,Pendrive 64GB,Computer Accessories,1,₹549.00
+PUN-10246,25/09/2026,Pune,USB-C Cable 1m,,1,₹299.00
+PUN-10247,26/09/2026,Pune,Wireless Earbuds,Audio,2,1999.00
+PUN-10247,26/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories,1,"₹1,299.00"
+PUN-10247,26/09/2026,Pune,Neckband Earphones,audio,1,₹ 1099
+PUN-10248,26/09/2026,Pune,Fitness Band,Wearables,1,1799.00
+PUN-10248,26/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,1,₹299.00
+PUN-10248,26/09/2026,Pune,Phone Case,Mobile Accessories,1,₹ 349
+PUN-10249,26/09/2026,Pune,NECKBAND EARPHONES,Audio,2,₹ 1099
+PUN-10250,26/09/2026,Pune,Wi-Fi Router,Home & Office,1,2299.00
+PUN-10250,26/09/2026,Pune,Fast Charger 20W,Mobile Accessories,1,₹899.00
+PUN-10250,26/09/2026,Pune,Wireless Mouse,Computer Accessories,1,₹599.00
+PUN-10251,26/09/2026,Pune,Fast Charger 20W,Mobile Accessories,2,₹899.00
+PUN-10251,26/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories,1,₹ 1299
+PUN-10251,26/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,3,₹ 299
+PUN-10252,26/09/2026,Pune,Bluetooth Speaker,Audio,2,₹ 2499
+PUN-10253,26/09/2026,Pune,Wireless Earbuds,Audio,2,1999.00
+PUN-10253,26/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,1,₹299.00
+PUN-10254,26/09/2026,Pune,Tempered Glass,Mobile Accessories,1,199.00
+PUN-10255,26/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories,1,"₹1,299.00"
+PUN-10256,27/09/2026,Pune,Smart Watch,Wearables,2,"₹3,499.00"
+PUN-10256,27/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,1,₹299.00
+PUN-10257,27/09/2026,Pune,Phone Case,Mobile Accessories,1,₹ 349
+PUN-10258,27/09/2026,Pune,Pendrive 64GB,Computer Accessories,1,549.00
+PUN-10259,27/09/2026,Pune,Keyboard Mouse Combo,Computer Accessories,3,₹ 1149
+PUN-10259,27/09/2026,pune,Wireless Mouse,Computer  Accessories,1,599.00
+PUN-10260,27/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories,2,"₹1,299.00"
+PUN-10261,27/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories,3,1299.00
+PUN-10261,27/09/2026,PUNE,HDMI Cable 1.5m,Computer Accessories,1,₹ 399
+PUN-10262,27/09/2026,Pune,Bluetooth Speaker,Audio,1,"₹2,499.00"
+PUN-10263,27/09/2026,Pune, Phone Case,Mobile Accessories,2,₹ 349
+PUN-10264,27/09/2026,Pune,Wireless Mouse,Computer Accessories,3,599.00
+PUN-10265,27/09/2026,Pune,Phone Case,Mobile Accessories,1,₹349.00
+PUN-10265,27/09/2026,Pune,Wireless Mouse,Computer Accessories,1,₹ 599
+PUN-10266,27/09/2026,Pune,phone case,Mobile Accessories,1,349.00
+PUN-10267,28/09/2026,Pune,Smart Watch,Wearables,1,3499.00
+PUN-10268,28/09/2026,Pune  ,Bluetooth Speaker,Audio,1,2499.00
+PUN-10269,28/09/2026,Pune,Wireless Earbuds,Audio,1,"₹1,999.00"
+PUN-10269,28/09/2026,Pune,Tempered Glass,Mobile Accessories,1,199.00
+PUN-10270,28/09/2026,Pune,PHONE CASE,Mobile Accessories,1,₹ 349
+PUN-10270,28/09/2026,Pune,Wireless Earbuds,Audio,2,"₹1,999.00"
+PUN-10271,28/09/2026,Pune,PENDRIVE 64GB,Computer Accessories,3,₹549.00
+PUN-10271,28/09/2026,Pune,Tempered Glass,Mobile Accessories,1,₹ 199
+PUN-10272,28/09/2026,Pune  ,Neckband Earphones,Audio,1,"₹1,099.00"
+PUN-10272,28/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories,2,1299.00
+PUN-10272,28/09/2026,Pune,Tempered Glass,Mobile Accessories,1,₹ 199
+PUN-10273,28/09/2026,Pune,Tempered Glass,Mobile Accessories,2,₹199.00
+PUN-10273,28/09/2026,pune,USB-C Cable 1m,Mobile Accessories,2,₹ 299
+PUN-10274,28/09/2026,pune,Neckband Earphones,Audio,3,"₹1,099.00"
+PUN-10275,28/09/2026,Pune,Phone Case,Mobile Accessories,2,₹349.00
+PUN-10275,28/09/2026,Pune,Wireless Mouse,Computer Accessories,3,599.00
+PUN-10276,28/09/2026,Pune,Phone Case,Mobile Accessories,2,349.00
+PUN-10276,28/09/2026,Pune,Smart Watch,Wearables,2,3499.00
+PUN-10277,28/09/2026,Pune,Pendrive 64GB,Computer Accessories,1,549.00
+PUN-10278,28/09/2026,Pune,Wireless Earbuds,Audio,2,₹ 1999
+PUN-10278,28/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,1,299.00
+PUN-10279,29/09/2026,Pune,Laptop Backpack  ,Computer Accessories,3,"₹1,499.00"
+PUN-10279,29/09/2026,Pune,Tempered Glass,Mobile Accessories,1,₹199.00
+PUN-10280,29/09/2026,Pune,NECKBAND EARPHONES,Audio,2,1099.00
+PUN-10280,29/09/2026,pune,Tempered Glass,Mobile Accessories,3,₹199.00
+PUN-10281,29/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,1,₹299.00
+PUN-10282,29/09/2026,Pune  ,Wireless Earbuds,Audio,1,1999.00
+PUN-10283,29/09/2026,Pune,WI-FI ROUTER,Home & Office,2,2299.00
+PUN-10279,29/09/2026,Pune,Tempered Glass,Mobile Accessories,1,₹199.00
+PUN-10283,29/09/2026,Pune,Fast Charger 20W,Mobile Accessories,1,₹899.00
+PUN-10284,29/09/2026,Pune, USB-C Cable 1m,Mobile Accessories,1,₹ 299
+PUN-10285,29/09/2026,Pune,Fast Charger 20W,Mobile Accessories,1,₹899.00
+PUN-10286,29/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories,1,₹ 1299
+PUN-10287,29/09/2026,Pune,Wireless Earbuds,Audio,1,1999.00
+PUN-10287,29/09/2026,Pune,HDMI Cable 1.5m,Computer Accessories,1,399.00
+PUN-10287,29/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,1,299.00
+PUN-10288,29/09/2026,Pune,USB-C Cable 1m,Mobile Accessories,1,299.00
+PUN-10289,30/09/2026,Pune,Fast Charger 20W,Mobile Accessories,1,₹899.00
+PUN-10289,30/09/2026,Pune,Bluetooth Speaker,,3,₹ 2499
+PUN-10289,30/09/2026,pune,USB-C Cable 1m,Mobile Accessories,3,299.00
+PUN-10290,30/09/2026,Pune,HDMI Cable 1.5m,Computer Accessories,2,₹ 399
+PUN-10291,30/09/2026,Pune,Tempered Glass,Mobile Accessories,1,199.00
+PUN-10291,30/09/2026,Pune,Fast Charger 20W,Mobile Accessories,1,₹899.00
+PUN-10292,30/09/2026,Pune,Fast Charger 20W,Mobile Accessories,1,899.00
+PUN-10293,30/09/2026,Pune,LED Desk Lamp,Home & Office,2,₹ 1199
+
+PUN-10294,30/09/2026,Pune,Keyboard Mouse Combo,Computer Accessories,1,1149.00
+PUN-10294,30/09/2026,Pune,Fast Charger 20W,Mobile Accessories,2,₹ 899
+PUN-10295,30/09/2026,pune,Power Bank 10000mAh,Mobile Accessories,1,₹ 1299
+PUN-10295,30/09/2026,Pune,Wi-Fi Router,Home & Office,1,₹ 2299
+PUN-10296,30/09/2026,Pune,Power Bank 10000mAh,Mobile Accessories,1,"₹1,299.00"
+PUN-10297,30/09/2026,PUNE,USB-C Cable 1m,Mobile Accessories,2,299.00
+PUN-10297,30/09/2026,Pune,Fast Charger 20W,Mobile Accessories,1,₹ 899

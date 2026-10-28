@@ -1,0 +1,345 @@
+Invoice Number,Invoice Date,Branch Name,Product,Quantity,Unit Price,Net Amount,GST %
+NSK/26-27/0451,1 Sep 2026,Nashik,LED Desk Lamp,1,1199/-,"Rs. 1,199.00",18
+NSK/26-27/0452,1 Sep 2026,Nashik,Phone Case,1,Rs. 349.00,349/-,18
+NSK/26-27/0453,2026-09-01,Nashik,Power Bank 10000mAh,1,1299/-,"Rs. 1,299.00",18
+NSK/26-27/0453,2026-09-01,Nashik,Phone Case,2,349.00,698/-,18
+NSK/26-27/0453,2026-09-01,Nashik,Pendrive 64GB,3,549/-,"Rs. 1,647.00",18
+NSK/26-27/0454,2026-09-01,Nashik,Pendrive 64GB,2,549.00,"Rs. 1,098.00",18
+NSK/26-27/0454,1 Sep 2026,Nashik,Bluetooth Speaker,2,"Rs. 2,499.00",Rs 4998,18
+NSK/26-27/0455,1 Sep 2026,Nashik,Pendrive 64GB,1,Rs 549,Rs 549,18
+NSK/26-27/0455,2026-09-01,Nashik,Tempered Glass,1,Rs 199,199/-,18
+NSK/26-27/0455,2026-09-01,Nashik, Neckband Earphones,3,"Rs. 1,099.00",Rs 3297,18
+NSK/26-27/0456,2 Sep 2026,Nashik,LED Desk Lamp,1,1199.00,1199/-,18
+NSK/26-27/0457,2026-09-02,Nashik,Tempered Glass,1,Rs. 199.00,199.00,18
+NSK/26-27/0458,2026-09-02,NASHIK,Neckband Earphones,2,1099.00,Rs 2198,18
+NSK/26-27/0458,2 Sep 2026,Nashik,HDMI Cable 1.5m,1,399.00,Rs. 399.00,18
+NSK/26-27/0459,2 Sep 2026,Nashik,Smart Watch,1,3499/-,Rs 3499,18
+NSK/26-27/0460,2026-09-02,Nashik,Smart Watch,2,3499/-,"Rs. 6,998.00",18
+NSK/26-27/0459,2 Sep 2026,Nashik,Smart Watch,1,3499/-,Rs 3499,18
+NSK/26-27/0461,2026-09-02,Nashik,USB-C Cable 1m,1,Rs. 299.00,Rs 299,18
+NSK/26-27/0461,2026-09-02,Nashik,Fitness Band,1,1799/-,"Rs. 1,799.00",18
+NSK/26-27/0462,2026-09-02,Nashik,Neckband Earphones,1,Rs 1099,"Rs. 1,099.00",18
+NSK/26-27/0462,2026-09-02,Nashik,Wireless Mouse,2,Rs 599,"Rs. 1,198.00",18
+NSK/26-27/0463,2026-09-03,Nashik,Tempered Glass,3,Rs. 199.00,Rs. 597.00,18
+NSK/26-27/0463,2026-09-03,Nashik,USB-C CABLE 1M,1,299/-,299.00,18
+NSK/26-27/0463,2026-09-03,Nashik,Power Bank 10000mAh,1,"Rs. 1,299.00",1299.00,18
+NSK/26-27/0464,2026-09-03,Nashik,Phone Case,1,349.00,Rs 349,18
+NSK/26-27/0465,2026-09-03,Nashik,Pendrive 64GB,2,549/-,Rs 1098,18
+NSK/26-27/0465,2026-09-03,Nashik,Tempered Glass,1,Rs. 199.00,199/-,18
+NSK/26-27/0466,3 Sep 2026,Nashik,Tempered Glass,2,Rs. 199.00,398/-,18
+NSK/26-27/0467,3 Sep 2026,Nashik,Wireless Mouse,1,599/-,599.00,18
+NSK/26-27/0467,2026-09-03,Nashik,Neckband Earphones,1,"Rs. 1,099.00",1099/-,18
+NSK/26-27/0461,2026-09-02,Nashik,Fitness Band,1,1799/-,"Rs. 1,799.00",18
+NSK/26-27/0468,2026-09-03,nashik,Tempered Glass,2,199.00,398/-,18
+NSK/26-27/0468,2026-09-03, Nashik,Power  Bank 10000mAh,1,1299/-,1299/-,18
+NSK/26-27/0469,3 Sep 2026,Nashik,Power Bank 10000mAh,1,1299/-,Rs 1299,18
+NSK/26-27/0469,2026-09-03,Nashik,Wireless Earbuds,1,Rs 1999,1999/-,18
+NSK/26-27/0462,2026-09-02,Nashik,Neckband Earphones,1,Rs 1099,"Rs. 1,099.00",18
+NSK/26-27/0470,3 Sep 2026,Nashik,Wireless Earbuds,1,Rs 1999,Rs 1999,18
+NSK/26-27/0470,2026-09-03,NASHIK,Fitness Band,1,1799.00,1799/-,18
+NSK/26-27/0470,3 Sep 2026,Nashik,Neckband Earphones,1,Rs 1099,Rs 1099,18
+NSK/26-27/0471,2026-09-04,Nashik,Phone Case,1,349/-,Rs. 349.00,18
+NSK/26-27/0471,2026-09-04,Nashik,Bluetooth Speaker,1,2499/-,Rs 2499,18
+NSK/26-27/0471,2026-09-04,Nashik,USB-C Cable 1m,1,Rs 299,Rs. 299.00,18
+NSK/26-27/0472,2026-09-04,Nashik,Wireless Mouse,3,Rs. 599.00,1797/-,18
+NSK/26-27/0473,4 Sep 2026,Nashik,Neckband Earphones,1,"Rs. 1,099.00",1099/-,18
+NSK/26-27/0474,4 Sep 2026,Nashik,Tempered Glass,2,199.00,Rs 398,18
+NSK/26-27/0474,4 Sep 2026,Nashik,Fast Charger 20W,1,899/-,Rs. 899.00,18
+NSK/26-27/0475,4 Sep 2026,Nashik,Phone Case,1,349/-,349/-,18
+NSK/26-27/0475,2026-09-04,Nashik,Smart Watch,1,3499.00,3499/-,18
+NSK/26-27/0476,4 Sep 2026,Nashik,USB-C Cable 1m,1,299.00,299.00,18
+NSK/26-27/0477,4 Sep 2026,Nashik,USB-C Cable 1m,1,Rs 299,299.00,18
+NSK/26-27/0478,2026-09-05,Nashik,Phone Case,2,349.00,698/-,18
+NSK/26-27/0479,2026-09-05,Nashik,Tempered Glass,1,Rs. 199.00,Rs. 199.00,18
+NSK/26-27/0479,2026-09-05,Nashik,Wireless Earbuds,2,1999/-,Rs 3998,18
+NSK/26-27/0480,2026-09-05,Nashik,Phone Case,3,Rs 349,1047/-,18
+NSK/26-27/0480,2026-09-05,Nashik,Power Bank 10000mAh,2,1299.00,"Rs. 2,598.00",18
+NSK/26-27/0481,2026-09-05,Nashik,USB-C Cable 1m,1,299/-,299/-,18
+NSK/26-27/0482,5 Sep 2026,Nashik,Phone Case,2,349/-,698/-,18
+NSK/26-27/0483,2026-09-05,Nashik,wireless mouse,1,Rs. 599.00,599.00,18
+NSK/26-27/0483,2026-09-05,Nashik,Phone Case,1,349.00,349/-,18
+NSK/26-27/0484,2026-09-05,Nashik,Tempered Glass,1,199/-,199.00,18
+NSK/26-27/0473,4 Sep 2026,Nashik,Neckband Earphones,1,"Rs. 1,099.00",1099/-,18
+NSK/26-27/0485,5 Sep 2026,Nashik,Fast Charger 20W,3,899.00,2697.00,18
+NSK/26-27/0485,2026-09-05,Nashik,Pendrive 64GB,1,549.00,Rs 549,18
+NSK/26-27/0485,2026-09-05,Nashik,Power Bank 10000mAh,1,Rs 1299,"Rs. 1,299.00",18
+NSK/26-27/0486,5 Sep 2026,Nashik,Tempered Glass,1,Rs. 199.00,199/-,18
+NSK/26-27/0487,2026-09-06,Nashik,Fast Charger 20W,1,899/-,899/-,18
+NSK/26-27/0487,2026-09-06,Nashik,USB-C Cable 1m,2,Rs 299,Rs 598,18
+NSK/26-27/0488,2026-09-06,Nashik,Phone Case,,349.00,Rs 698,18
+NSK/26-27/0489,6 Sep 2026,Nashik,Extension Board 4 Socket,1,Rs 649,Rs. 649.00,18
+NSK/26-27/0489,2026-09-06,Nashik,Bluetooth Speaker,2,2499/-,"Rs. 4,998.00",18
+NSK/26-27/0490,2026-09-06,Nashik,Fast Charger 20W  ,1,Rs 899,899.00,18
+NSK/26-27/0491,2026-09-06,Nashik,Pendrive 64GB,2,549.00,Rs 1098,18
+NSK/26-27/0491,2026-09-06,Nashik,Wireless Earbuds,1,"Rs. 1,999.00","Rs. 1,999.00",18
+NSK/26-27/0491,6 Sep 2026,Nashik,hdmi cable 1.5m,2,399.00,Rs. 798.00,18
+NSK/26-27/0492,2026-09-06,nashik,HDMI Cable 1.5m,3,399/-,1197.00,18
+NSK/26-27/0492,2026-09-06,Nashik,Fitness Band,1,1799/-,Rs 1799,18
+NSK/26-27/0492,2026-09-06,Nashik,Wireless Earbuds,1,1999.00,"Rs. 1,999.00",18
+NSK/26-27/0493,2026-09-06,Nashik,Pendrive 64GB,1,549.00,Rs. 549.00,18
+NSK/26-27/0494,2026-09-06,Nashik,Neckband Earphones,2,"Rs. 1,099.00",Rs 2198,18
+NSK/26-27/0495,2026-09-06,Nashik, Wi-Fi Router,1,Rs 2299,2299/-,18
+NSK/26-27/0495,6 Sep 2026,Nashik,Phone Case,2,349.00,698/-,18
+NSK/26-27/0496,2026-09-06,Nashik,HDMI Cable 1.5m,1,399.00,399.00,18
+NSK/26-27/0496,2026-09-06,Nashik,Extension Board 4 Socket,,649/-,Rs 1298,18
+NSK/26-27/0497,2026-09-06,Nashik,Neckband Earphones,1,1099.00,1099.00,18
+NSK/26-27/0497,6 Sep 2026,Nashik,Wireless Mouse,1,Rs 599,599/-,18
+NSK/26-27/0498,2026-09-07,Nashik,Wireless Earbuds  ,2,1999/-,3998.00,18
+NSK/26-27/0499,2026-09-07,Nashik,Bluetooth Speaker,2,2499/-,"Rs. 4,998.00",18
+NSK/26-27/0500,7 Sep 2026,Nashik,USB-C Cable 1m,1,299/-,299/-,18
+NSK/26-27/0501,2026-09-07,Nashik,Tempered Glass,2,Rs. 199.00,Rs. 398.00,18
+NSK/26-27/0501,2026-09-07,Nashik,Bluetooth Speaker,3,2499.00,7497.00,18
+NSK/26-27/0502,2026-09-07,Nashik,LED Desk Lamp,1,1199.00,"Rs. 1,199.00",18
+NSK/26-27/0502,2026-09-07,Nashik,Wi-Fi Router,2,2299.00,4598.00,18
+NSK/26-27/0503,2026-09-07,Nashik,Tempered Glass,3,199/-,Rs. 597.00,18
+NSK/26-27/0503,2026-09-07,Nashik,Neckband Earphones,1,"Rs. 1,099.00",Rs 1099,18
+NSK/26-27/0503,2026-09-07,Nashik,Wireless Earbuds,2,1999.00,3998/-,18
+NSK/26-27/0504,2026-09-07, Nashik,Phone Case,1,Rs 349,349/-,18
+NSK/26-27/0505,2026-09-08,Nashik,Phone Case,1,Rs. 349.00,Rs 349,18
+NSK/26-27/0506,2026-09-08,NASHIK,Bluetooth Speaker,1,"Rs. 2,499.00",2499/-,18
+NSK/26-27/0507,8 Sep 2026,NASHIK,Power Bank 10000mAh,2,1299/-,"Rs. 2,598.00",18
+NSK/26-27/0508,2026-09-08,Nashik,Wireless Earbuds,1,Rs 1999,1999.00,18
+NSK/26-27/0508,2026-09-08,Nashik,USB-C Cable 1m,2,Rs. 299.00,598.00,18
+NSK/26-27/0509,8 Sep 2026,Nashik,Extension Board 4 Socket,1,649/-,Rs. 649.00,18
+NSK/26-27/0509,8 Sep 2026,Nashik,Fast Charger 20W,2,Rs 899,1798.00,18
+NSK/26-27/0510,2026-09-08,Nashik,Wireless Mouse,1,599.00,Rs. 599.00,18
+NSK/26-27/0510,2026-09-08,Nashik,Wi-Fi Router,1,2299.00,2299.00,18
+NSK/26-27/0511,2026-09-08,Nashik,Tempered Glass,1,199/-,Rs 199,18
+NSK/26-27/0512,2026-09-08,Nashik,Phone Case,2,Rs 349,Rs 698,18
+NSK/26-27/0513,9 Sep 2026,Nashik,Phone Case,3,Rs. 349.00,Rs 1047,18
+NSK/26-27/0514,9 Sep 2026,Nashik,USB-C Cable 1m,1,Rs 299,Rs. 299.00,18
+NSK/26-27/0514,9 Sep 2026,Nashik,Bluetooth Speaker,1,2499/-,2499.00,18
+NSK/26-27/0515,2026-09-09,Nashik,Bluetooth Speaker,1,2499.00,2499/-,18
+NSK/26-27/0516,2026-09-09,Nashik,HDMI Cable 1.5m  ,2,399.00,798.00,18
+NSK/26-27/0516,9 Sep 2026,Nashik,Fast Charger 20W,1,899/-,Rs. 899.00,18
+NSK/26-27/0516,2026-09-09,Nashik,LED Desk Lamp,1,1199/-,1199/-,18
+NSK/26-27/0517,9 Sep 2026,Nashik,LED Desk Lamp,1,Rs 1199,Rs 1199,18
+NSK/26-27/0518,2026-09-09,Nashik,Pendrive 64GB,1,549.00,Rs 549,18
+NSK/26-27/0519,2026-09-09,Nashik,Pendrive 64GB,1,549/-,Rs. 549.00,18
+NSK/26-27/0519,2026-09-09,NASHIK,Fitness Band,3,"Rs. 1,799.00","Rs. 5,397.00",18
+NSK/26-27/0520,9 Sep 2026,Nashik,Bluetooth Speaker,2,2499.00,4998.00,18
+NSK/26-27/0520,2026-09-09,Nashik,Power Bank 10000mAh,3,1299/-,Rs 3897,18
+NSK/26-27/0520,9 Sep 2026,Nashik,USB-C Cable 1m,1,299/-,299.00,18
+NSK/26-27/0521,2026-09-10,Nashik,Wireless Mouse,1,599/-,Rs 599,18
+NSK/26-27/0522,2026-09-10,Nashik,Wireless Earbuds,1,"Rs. 1,999.00","Rs. 1,999.00",18
+NSK/26-27/0523,10 Sep 2026,Nashik,Phone Case,2,349.00,698.00,18
+NSK/26-27/0524,2026-09-10,Nashik,EXTENSION BOARD 4 SOCKET,2,Rs 649,1298.00,18
+NSK/26-27/0525,2026-09-10,Nashik,Extension Board 4 Socket,2,Rs. 649.00,1298.00,18
+NSK/26-27/0525,2026-09-10,Nashik,LED Desk Lamp,3,1199/-,3597.00,18
+NSK/26-27/0525,2026-09-10, Nashik,Wireless Earbuds,1,1999/-,1999/-,18
+NSK/26-27/0526,10 Sep 2026,Nashik,Pendrive 64GB,2,549/-,"Rs. 1,098.00",18
+NSK/26-27/0526,10 Sep 2026,Nashik,Fast  Charger 20W,1,Rs. 899.00,899.00,18
+NSK/26-27/0527,2026-09-11,Nashik,laptop backpack,1,"Rs. 1,499.00","Rs. 1,499.00",18
+NSK/26-27/0528,2026-09-11,Nashik,Keyboard Mouse Combo,2,1149.00,2298.00,18
+NSK/26-27/0529,2026-09-11,Nashik,Pendrive 64GB,1,549.00,Rs 549,18
+NSK/26-27/0530,11 Sep 2026,Nashik,Pendrive 64GB,2,549.00,Rs 1098,18
+NSK/26-27/0530,2026-09-11,NASHIK,Phone Case,1,Rs. 349.00,Rs. 349.00,18
+NSK/26-27/0531,2026-09-12,Nashik,Power Bank 10000mAh,1,1299/-,Rs 1299,18
+NSK/26-27/0532,12 Sep 2026,Nashik,Phone Case,2,Rs. 349.00,698/-,18
+
+NSK/26-27/0533,2026-09-12,Nashik,Neckband Earphones,1,1099.00,1099.00,18
+NSK/26-27/0533,2026-09-12,Nashik,USB-C Cable 1m,1,299/-,Rs 299,18
+NSK/26-27/0533,12 Sep 2026,Nashik,LED Desk Lamp,2,1199.00,Rs 2398,18
+NSK/26-27/0534,12 Sep 2026,Nashik,HDMI Cable 1.5m,1,399/-,399.00,18
+NSK/26-27/0535,2026-09-12,Nashik,USB-C Cable 1m,1,299/-,299.00,18
+NSK/26-27/0536,2026-09-12,Nashik,USB-C Cable 1m,1,Rs. 299.00,299.00,18
+NSK/26-27/0537,2026-09-13,Nashik,Bluetooth Speaker,2,Rs 2499,"Rs. 4,998.00",18
+NSK/26-27/0538,2026-09-13,Nashik,Phone Case,3,349/-,1047/-,18
+NSK/26-27/0538,2026-09-13,Nashik,Fast Charger 20W,1,Rs 899,899/-,18
+NSK/26-27/0539,13 Sep 2026,Nashik,Fitness Band,1,1799/-,"Rs. 1,799.00",18
+NSK/26-27/0539,2026-09-13,Nashik,Wireless Earbuds,1,"Rs. 1,999.00","Rs. 1,999.00",18
+NSK/26-27/0540,13 Sep 2026,Nashik,Wireless Earbuds,1,1999.00,1999.00,18
+NSK/26-27/0541,13 Sep 2026,Nashik,Wireless Earbuds,2,"Rs. 1,999.00",3998.00,18
+NSK/26-27/0542,2026-09-13,Nashik,Pendrive 64GB,3,549/-,"Rs. 1,647.00",18
+NSK/26-27/0542,2026-09-13,Nashik  ,Keyboard Mouse Combo,1,1149.00,1149/-,18
+NSK/26-27/0542,2026-09-13,Nashik,Phone Case,1,349/-,349.00,18
+NSK/26-27/0543,2026-09-13,Nashik,Wireless Mouse,2,Rs. 599.00,1198.00,18
+NSK/26-27/0544,13 Sep 2026,Nashik,Tempered Glass,1,Rs. 199.00,199/-,18
+NSK/26-27/0545,2026-09-14,Nashik,Wireless Earbuds,1,Rs 1999,Rs 1999,18
+NSK/26-27/0546,2026-09-14,nashik,Pendrive 64GB,1,Rs 549,549/-,18
+NSK/26-27/0547,2026-09-14,nashik,Wireless Earbuds,3,1999.00,Rs 5997,18
+NSK/26-27/0548,2026-09-14,Nashik,Laptop Backpack,1,1499/-,1499.00,18
+NSK/26-27/0549,2026-09-14,nashik,Phone Case,2,Rs. 349.00,698.00,18
+NSK/26-27/0550,2026-09-14,Nashik,Power Bank 10000mAh,3,1299.00,3897.00,18
+NSK/26-27/0550,2026-09-14,Nashik,Wireless Mouse,2,Rs. 599.00,1198.00,18
+NSK/26-27/0550,2026-09-14,Nashik,USB-C Cable 1m,1,Rs. 299.00,299.00,18
+NSK/26-27/0551,2026-09-14,Nashik,Fast Charger 20W,1,899.00,Rs. 899.00,18
+NSK/26-27/0551,2026-09-14,Nashik,Extension Board 4 Socket,1,649/-,649/-,18
+,,,,,,,
+NSK/26-27/0551,2026-09-14,Nashik,Wi-Fi Router,1,"Rs. 2,299.00",Rs 2299,18
+NSK/26-27/0552,14 Sep 2026,Nashik,Phone Case,1,349/-,Rs 349,18
+NSK/26-27/0552,2026-09-14,Nashik,HDMI Cable 1.5m,,Rs 399,Rs 399,18
+NSK/26-27/0552,2026-09-14,Nashik,Tempered Glass,1,Rs. 199.00,199/-,18
+NSK/26-27/0553,2026-09-15,Nashik,Phone Case,3,Rs 349,1047/-,18
+NSK/26-27/0553,15 Sep 2026,Nashik,Fast Charger 20W,1,899.00,Rs 899,18
+NSK/26-27/0554,15 Sep 2026,Nashik,USB-C Cable 1m,2,299.00,598/-,18
+NSK/26-27/0555,2026-09-15,Nashik,Smart Watch,1,"Rs. 3,499.00",3499/-,18
+NSK/26-27/0556,2026-09-15,Nashik,Neckband Earphones,1,1099.00,1099/-,18
+NSK/26-27/0557,2026-09-15,Nashik,Fitness Band,3,1799/-,5397/-,18
+NSK/26-27/0558,2026-09-16,Nashik,Tempered Glass,1,Rs. 199.00,199/-,18
+NSK/26-27/0559,2026-09-16,Nashik,Fast Charger 20W,2,Rs 899,1798/-,18
+NSK/26-27/0560,16 Sep 2026,Nashik,Extension Board 4 Socket,2,649/-,"Rs. 1,298.00",18
+NSK/26-27/0561,2026-09-16,Nashik,Phone Case,2,349.00,Rs 698,18
+NSK/26-27/0562,2026-09-31,nashik,Fast Charger 20W,1,Rs 899,899.00,18
+NSK/26-27/0562,2026-09-16,Nashik,Extension Board 4 Socket,1,Rs 649,Rs. 649.00,18
+NSK/26-27/0562,2026-09-16,Nashik,LED Desk Lamp,1,Rs 1199,"Rs. 1,199.00",18
+NSK/26-27/0563,16 Sep 2026,NASHIK,Tempered Glass,1,199/-,Rs 199,18
+NSK/26-27/0563,2026-09-16,NASHIK,Pendrive 64GB,1,549/-,Rs. 549.00,18
+NSK/26-27/0564,2026-09-17,Nashik,Fast Charger 20W,3,Rs 899,"Rs. 2,697.00",18
+NSK/26-27/0565,2026-09-17,Nashik,Phone Case,1,349/-,349/-,18
+NSK/26-27/0565,17 Sep 2026,Nashik,Neckband Earphones,3,1099.00,3297.00,18
+NSK/26-27/0566,17 Sep 2026,Nashik,Phone Case,2,349/-,Rs. 698.00,18
+NSK/26-27/0566,2026-09-17,Nashik,Power Bank 10000mAh,1,1299/-,1299/-,18
+NSK/26-27/0567,2026-09-17,Nashik,Phone Case,1,Rs. 349.00,Rs. 349.00,18
+NSK/26-27/0568,2026-09-17,Nashik,Tempered Glass,1,Rs 199,199/-,18
+NSK/26-27/0569,2026-09-17,NASHIK,Tempered Glass,1,Rs. 199.00,199.00,18
+NSK/26-27/0569,2026-09-17,Nashik,Fitness Band,2,"Rs. 1,799.00",3598/-,18
+NSK/26-27/0570,2026-09-17,Nashik,Keyboard Mouse Combo,1,1149/-,1149/-,18
+NSK/26-27/0571,2026-09-17,Nashik,Phone Case,1,Rs 349,349.00,18
+NSK/26-27/0572,2026-09-18,Nashik,phone case,3,Rs 349,1047.00,18
+NSK/26-27/0572,2026-09-18,Nashik,Neckband Earphones,1,1099/-,"Rs. 1,099.00",18
+NSK/26-27/0572,2026-09-18, Nashik,USB-C Cable 1m,1,299.00,Rs 299,18
+NSK/26-27/0573,18 Sep 2026,Nashik,Tempered Glass,1,Rs. 199.00,199/-,18
+NSK/26-27/0573,18 Sep 2026,Nashik,Pendrive 64GB,1,549/-,Rs. 549.00,18
+NSK/26-27/0574,18 Sep 2026,Nashik,Phone Case,1,349/-,Rs. 349.00,18
+NSK/26-27/0574,2026-09-18,Nashik,Fast Charger 20W,2,Rs 899,"Rs. 1,798.00",18
+NSK/26-27/0574,18 Sep 2026,Nashik,Power Bank 10000mAh,1,1299/-,1299.00,18
+NSK/26-27/0575,2026-09-18,Nashik,Phone Case,2,Rs 349,698/-,18
+NSK/26-27/0575,2026-09-18,Nashik,USB-C Cable 1m,2,299.00,Rs 598,18
+NSK/26-27/0576,18 Sep 2026,Nashik,Wireless Mouse,1,599.00,Rs 599,18
+NSK/26-27/0576,18 Sep 2026,nashik,Laptop Backpack,1,Rs 1499,Rs 1499,18
+NSK/26-27/0577,18 Sep 2026,Nashik,Phone Case,1,Rs 349,Rs 349,18
+NSK/26-27/0577,18 Sep 2026,Nashik,Pendrive 64GB,1,Rs. 549.00,Rs. 549.00,18
+NSK/26-27/0578,2026-09-18,Nashik,Wi-Fi Router,1,"Rs. 2,299.00","Rs. 2,299.00",18
+NSK/26-27/0578,2026-09-18,Nashik,Tempered Glass,1,199.00,Rs 199,18
+NSK/26-27/0579,2026-09-18,Nashik,Fast Charger 20W,2,Rs 899,1798.00,18
+NSK/26-27/0580,2026-09-19,Nashik,Wireless Earbuds,1,1999.00,1999/-,18
+NSK/26-27/0580,19 Sep 2026,Nashik,Tempered Glass,3,Rs 199,597.00,18
+NSK/26-27/0580,19 Sep 2026,NASHIK,USB-C Cable 1m,1,Rs 299,299.00,18
+NSK/26-27/0581,2026-09-19,Nashik,Laptop Backpack,1,1499/-,"Rs. 1,499.00",18
+NSK/26-27/0581,2026-09-19,Nashik,neckband earphones,,"Rs. 1,099.00",3297.00,18
+NSK/26-27/0582,2026-09-19,Nashik,USB-C Cable 1m,3,Rs. 299.00,897.00,18
+NSK/26-27/0583,2026-09-19,Nashik,USB-C Cable 1m,1,299/-,Rs. 299.00,18
+NSK/26-27/0584,2026-09-19,Nashik,USB-C Cable 1m,1,Rs 299,299.00,18
+NSK/26-27/0585,19 Sep 2026,Nashik,Tempered Glass,2,199.00,Rs 398,18
+NSK/26-27/0586,2026-09-20,Nashik,Wireless Mouse,3,599.00,Rs 1797,18
+NSK/26-27/0587,2026-09-20,Nashik,Fitness Band,1,1799/-,1799/-,18
+NSK/26-27/0587,20 Sep 2026,Nashik,USB-C Cable 1m,1,299.00,Rs 299,18
+NSK/26-27/0588,2026-09-20,Nashik,Power Bank 10000mAh,1,1299/-,Rs 1299,18
+NSK/26-27/0589,20 Sep 2026,Nashik,USB-C Cable 1m,2,299/-,Rs. 598.00,18
+NSK/26-27/0590,20 Sep 2026,Nashik,Bluetooth Speaker,1,2499/-,"Rs. 2,499.00",18
+NSK/26-27/0590,2026-09-20,Nashik,Phone Case,2,Rs 349,698.00,18
+NSK/26-27/0587,2026-09-20,Nashik,Fitness Band,1,1799/-,1799/-,18
+NSK/26-27/0591,2026-09-20,Nashik,Wireless Earbuds,2,"Rs. 1,999.00",3998/-,18
+NSK/26-27/0591,2026-09-20,Nashik,Phone Case,1,349/-,Rs. 349.00,18
+NSK/26-27/0591,20 Sep 2026,Nashik,Tempered Glass,1,Rs 199,199/-,18
+NSK/26-27/0592,2026-09-20,Nashik,Tempered Glass,1,199/-,Rs. 199.00,18
+NSK/26-27/0593,2026-09-20,Nashik,Fast Charger 20W,,Rs. 899.00,Rs. 899.00,18
+NSK/26-27/0593,2026-09-20,Nashik,Extension Board 4 Socket,1,649/-,649.00,18
+NSK/26-27/0594,20 Sep 2026,Nashik,Wireless Mouse,1,Rs. 599.00,599.00,18
+NSK/26-27/0594,2026-09-20,Nashik,USB-C Cable 1m,1,Rs 299,299.00,18
+NSK/26-27/0595,21 Sep 2026,Nashik,Smart Watch,3,3499.00,"Rs. 10,497.00",18
+NSK/26-27/0596,21 Sep 2026,Nashik,USB-C Cable 1m,1,Rs 299,Rs 299,18
+NSK/26-27/0597,2026-09-21,Nashik,Phone Case,1,Rs 349,Rs 349,18
+NSK/26-27/0597,2026-09-21,Nashik,Fast Charger 20W,2,Rs. 899.00,Rs 1798,18
+NSK/26-27/0598,2026-09-21,Nashik,Phone Case,3,Rs. 349.00,Rs 1047,18
+NSK/26-27/0598,2026-09-21,Nashik,Fast Charger 20W,2,899/-,Rs 1798,18
+NSK/26-27/0598,2026-09-21,Nashik,Wireless Mouse,1,599/-,599/-,18
+NSK/26-27/0599,21 Sep 2026,Nashik,Pendrive 64GB,1,549/-,Rs 549,18
+NSK/26-27/0599,2026-09-21,Nashik,LED Desk Lamp,2,1199/-,Rs 2398,18
+NSK/26-27/0600,22 Sep 2026,NASHIK,Keyboard Mouse Combo,1,1149.00,"Rs. 1,149.00",18
+NSK/26-27/0600,22 Sep 2026,nashik,Pendrive 64GB,3,Rs. 549.00,1647/-,18
+NSK/26-27/0601,2026-09-22,Nashik,Wireless Mouse,1,Rs 599,Rs 599,18
+NSK/26-27/0602,2026-09-22,Nashik,Fast Charger 20W,1,899/-,Rs. 899.00,18
+NSK/26-27/0603,2026-09-22,Nashik,LED Desk Lamp,2,Rs 1199,2398.00,18
+NSK/26-27/0603,22 Sep 2026,Nashik,Wi-Fi Router,1,Rs 2299,Rs 2299,18
+NSK/26-27/0604,22 Sep 2026,Nashik,Smart Watch,1,"Rs. 3,499.00",Rs 3499,18
+NSK/26-27/0605,2026-09-22,Nashik,Wireless Earbuds,2,Rs 1999,3998/-,18
+NSK/26-27/0606,2026-09-23,Nashik,Wireless Earbuds,2,Rs 1999,Rs 3998,18
+NSK/26-27/0607,23 Sep 2026,Nashik,Smart Watch,3,"Rs. 3,499.00",10497/-,18
+NSK/26-27/0607,23 Sep 2026,Nashik,Power Bank 10000mAh,1,1299/-,1299.00,18
+NSK/26-27/0608,2026-09-23,Nashik,Extension Board 4 Socket,1,649.00,649.00,18
+NSK/26-27/0609,2026-09-23,Nashik,Neckband Earphones,2,1099.00,2198/-,18
+NSK/26-27/0609,23 Sep 2026,Nashik,USB-C Cable 1m,1,299.00,299/-,18
+NSK/26-27/0610,2026-09-23,Nashik,Pendrive 64GB,2,Rs 549,Rs 1098,18
+NSK/26-27/0610,2026-09-23,Nashik,Tempered Glass,2,199/-,398/-,18
+NSK/26-27/0611,23 Sep 2026,Nashik,Smart Watch,2,3499/-,6998/-,18
+NSK/26-27/0612,24 Sep 2026,Nashik,Pendrive 64GB,1,549.00,Rs. 549.00,18
+NSK/26-27/0613,2026-09-24,Nashik,Power Bank 10000mAh,1,"Rs. 1,299.00",1299/-,18
+NSK/26-27/0614,2026-09-24,Nashik,Phone Case,1,Rs. 349.00,Rs. 349.00,18
+NSK/26-27/0615,24 Sep 2026,Nashik,Phone Case,1,Rs. 349.00,Rs. 349.00,18
+NSK/26-27/0616,2026-09-24,Nashik,USB-C Cable 1m,2,Rs. 299.00,598.00,18
+NSK/26-27/0617,2026-09-24,Nashik,HDMI Cable 1.5m,3,399.00,Rs 1197,18
+NSK/26-27/0618,24 Sep 2026,Nashik,Phone Case,1,Rs. 349.00,Rs 349,18
+NSK/26-27/0618,2026-09-24,Nashik,Pendrive 64GB,3,549/-,"Rs. 1,647.00",18
+NSK/26-27/0619,2026-09-25,Nashik,extension board 4 socket,1,649.00,Rs 649,18
+NSK/26-27/0620,2026-09-25,Nashik,usb-c cable 1m,1,Rs 299,Rs 299,18
+NSK/26-27/0621,2026-09-25,Nashik,Extension Board 4 Socket,1,649.00,649/-,18
+,,,,,,,
+NSK/26-27/0621,2026-09-25,Nashik,Fast Charger 20W,3,899.00,2697/-,18
+NSK/26-27/0622,2026-09-25,Nashik,Keyboard Mouse Combo,2,Rs 1149,Rs 2298,18
+NSK/26-27/0623,2026-09-25,Nashik,Tempered Glass,3,199.00,Rs. 597.00,18
+NSK/26-27/0624,2026-09-26,Nashik,Keyboard Mouse Combo,2,1149/-,2298.00,18
+NSK/26-27/0624,2026-09-26,Nashik,Wireless Mouse,1,Rs. 599.00,Rs 599,18
+NSK/26-27/0624,2026-09-26,Nashik,Power Bank 10000mAh,1,1299/-,"Rs. 1,299.00",18
+NSK/26-27/0625,2026-09-26,Nashik,Tempered Glass,3,Rs 199,Rs. 597.00,18
+NSK/26-27/0626,26 Sep 2026,Nashik,Wireless Mouse,3,Rs 599,"Rs. 1,797.00",18
+NSK/26-27/0627,2026-09-26,nashik,Pendrive 64GB,1,Rs 549,549.00,18
+NSK/26-27/0628,2026-09-26,Nashik,Tempered Glass,1,Rs. 199.00,Rs 199,18
+NSK/26-27/0629,2026-09-26,Nashik,Phone Case,1,349.00,349/-,18
+
+NSK/26-27/0629,26 Sep 2026,Nashik,Wireless Earbuds,1,1999/-,"Rs. 1,999.00",18
+NSK/26-27/0630,2026-09-27,Nashik,LED Desk Lamp,1,Rs 1199,"Rs. 1,199.00",18
+NSK/26-27/0630,2026-09-27,Nashik,Pendrive 64GB,2,549/-,1098/-,18
+NSK/26-27/0630,2026-09-27,Nashik,Power Bank 10000mAh,1,Rs 1299,1299.00,18
+NSK/26-27/0631,27 Sep 2026,Nashik,Smart Watch,2,3499/-,6998/-,18
+NSK/26-27/0632,2026-09-27,nashik,Tempered Glass,1,Rs 199,Rs 199,18
+NSK/26-27/0632,2026-09-27,Nashik,Extension Board 4 Socket,1,Rs 649,649.00,18
+NSK/26-27/0632,2026-09-27,Nashik,Fast Charger 20W,1,Rs. 899.00,Rs 899,18
+NSK/26-27/0633,27 Sep 2026,Nashik,Keyboard Mouse Combo,3,"Rs. 1,149.00",3447/-,18
+NSK/26-27/0634,27 Sep 2026,Nashik,HDMI Cable 1.5m,3,399/-,Rs 1197,18
+NSK/26-27/0634,2026-09-27,Nashik,Extension Board 4 Socket,2,Rs 649,Rs 1298,18
+NSK/26-27/0635,2026-09-27,Nashik,wireless earbuds,1,"Rs. 1,999.00",1999/-,18
+NSK/26-27/0635,2026-09-27,Nashik,HDMI Cable 1.5m,1,399.00,Rs. 399.00,18
+NSK/26-27/0636,2026-09-28,Nashik,Fast Charger 20W  ,1,Rs 899,Rs. 899.00,18
+NSK/26-27/0636,2026-09-28,Nashik,Phone Case,3,349.00,"Rs. 1,047.00",18
+NSK/26-27/0637,2026-09-28,Nashik,Extension Board 4 Socket,2,649/-,1298/-,18
+NSK/26-27/0637,28 Sep 2026,Nashik,HDMI Cable 1.5m,2,399.00,798/-,18
+NSK/26-27/0638,28 Sep 2026,Nashik,Phone Case,3,349/-,Rs 1047,18
+NSK/26-27/0638,2026-09-28,Nashik,Extension Board 4 Socket,3,Rs. 649.00,1947.00,18
+NSK/26-27/0639,2026-09-28,Nashik,Phone Case,1,349/-,Rs. 349.00,18
+NSK/26-27/0640,28 Sep 2026,Nashik,Tempered Glass,1,199.00,199.00,18
+NSK/26-27/0641,2026-09-28,Nashik,Tempered Glass,2,199/-,398.00,18
+NSK/26-27/0642,28 Sep 2026,Nashik,Fast Charger 20W,3,Rs 899,2697.00,18
+NSK/26-27/0643,2026-09-28,Nashik,Pendrive 64GB,1,Rs 549,Rs. 549.00,18
+NSK/26-27/0644,2026-09-29,Nashik,Wireless Mouse,2,599.00,Rs 1198,18
+NSK/26-27/0644,29 Sep 2026,Nashik,Tempered Glass,1,199.00,Rs. 199.00,18
+NSK/26-27/0645,29 Sep 2026,Nashik,Smart Watch,1,3499/-,Rs 3499,18
+NSK/26-27/0645,29 Sep 2026,Nashik,Bluetooth Speaker,1,2499/-,2499/-,18
+NSK/26-27/0646,29 Sep 2026,Nashik  ,Neckband Earphones,1,1099/-,Rs 1099,18
+NSK/26-27/0647,2026-09-29,Nashik,Pendrive 64GB,1,549/-,549/-,18
+NSK/26-27/0647,29 Sep 2026,Nashik,Wireless Earbuds,2,"Rs. 1,999.00",Rs 3998,18
+NSK/26-27/0648,30 Sep 2026,Nashik,Extension Board 4 Socket,1,Rs. 649.00,Rs. 649.00,18
+NSK/26-27/0649,30 Sep 2026,Nashik,Tempered Glass,1,199.00,199/-,18
+NSK/26-27/0649,2026-09-30,Nashik,Fitness Band,1,"Rs. 1,799.00",Rs 1799,18
+NSK/26-27/0649,30 Sep 2026,Nashik,Extension Board 4 Socket,1,649.00,Rs. 649.00,18
+NSK/26-27/0650,2026-09-30,Nashik,Fast Charger 20W,3,Rs 899,"Rs. 2,697.00",18
+NSK/26-27/0650,2026-09-30,Nashik,Wireless Mouse,1,Rs. 599.00,599/-,18
+NSK/26-27/0651,2026-09-30,Nashik,Tempered Glass,3,199/-,597.00,18
+NSK/26-27/0652,30 Sep 2026,Nashik,LED Desk Lamp,1,1199.00,"Rs. 1,199.00",18
+NSK/26-27/0653,30 Sep 2026,Nashik,Tempered Glass,1,Rs 199,Rs. 199.00,18
+NSK/26-27/0654,2026-09-30,Nashik,Tempered Glass,3,199.00,Rs 597,18
+NSK/26-27/0655,2026-09-30,Nashik,Fast Charger 20W,1,899.00,Rs. 899.00,18
+NSK/26-27/0655,2026-09-30,Nashik,Keyboard Mouse Combo,1,1149.00,1149/-,18
+nsk/26-27/0453,2026-09-01,Nashik,Pendrive 64GB,3,549/-,Rs 1647,18
+nsk/26-27/0454,2026-09-01,Nashik,Pendrive 64GB,2,Rs. 549.00,"Rs. 1,098.00",18
+nsk/26-27/0454,2026-09-01,Nashik,Bluetooth Speaker,2,Rs 2499,4998.00,18
+nsk/26-27/0455,2026-09-01,Nashik,Pendrive 64GB,1,549.00,Rs. 549.00,18
+nsk/26-27/0455,2026-09-01,Nashik,Tempered Glass,1,Rs. 199.00,Rs. 199.00,18
+nsk/26-27/0455,2026-09-01,Nashik  ,Neckband Earphones,3,1099/-,3297.00,18
+nsk/26-27/0456,2026-09-02,Nashik,LED Desk Lamp,1,Rs 1199,1199/-,18
+nsk/26-27/0457,2026-09-02,Nashik,Tempered Glass,1,Rs 199,199/-,18
+nsk/26-27/0458,2026-09-02,Nashik,Neckband Earphones,2,1099/-,"Rs. 2,198.00",18
+nsk/26-27/0458,2026-09-02,Nashik,HDMI Cable 1.5m,1,Rs 399,399.00,18
+nsk/26-27/0459,2 Sep 2026,Nashik,Smart Watch,1,3499/-,3499/-,18
+nsk/26-27/0460,2 Sep 2026,Nashik,Smart Watch,2,3499.00,6998/-,18
